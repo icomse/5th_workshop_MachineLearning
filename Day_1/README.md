@@ -11,8 +11,8 @@
 
 ### Session 3 (Dr. Michael Shirts)
 * [Supervised learning and an introduction to machine learning through regression](Session3_4_Regression.pdf)
-* (Python notebook for regression as maachine learning)[Regression_As_ML.ipynb]
-
+* [Python notebook for regression as maachine learning](Regression_As_ML.ipynb)
+* 
 ### Session 4 (Dr. Michael Shirts)
 * [Validation in Machine Learning](Session4_Validation.pdf)
 * [Python notebook for cross-validation](Validation.ipynb)
