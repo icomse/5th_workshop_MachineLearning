@@ -2,7 +2,7 @@
 
 ### Session 1
 
-### Sesssion 2
+### Session 2
 
 ### Session 3
 
