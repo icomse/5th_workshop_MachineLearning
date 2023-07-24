@@ -2,7 +2,7 @@
 ### Dates: July 10-14, 2023
 
 ### Requirements:
-[See the following link for setting up software](settingup.md)
+[See the following link for setting up software](../settingup.md)
 
 ### Workshop Material
 
