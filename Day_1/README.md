@@ -2,7 +2,7 @@
 
 ### Session 1
 * Introduction to workshop (Dr. Sapna Sarupria)
-* Why ML for molecules? (Dr. Chris Bartel)
+* [Why ML for molecules? (Dr. Chris Bartel)](Day_1/230710_bartel_ML-intro_after.pdf)
 * Introduction to computational framework (Dr. Eric Jankowski)
 
 ### Session 2 (Dr. Michael Shirts)
