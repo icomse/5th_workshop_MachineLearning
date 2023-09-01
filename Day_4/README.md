@@ -4,13 +4,13 @@
 
 ### Session 1
 
-[Building your own neural net (pre-session notebook)](4.1_deep-learning_after.ipynb)
+Building your own neural net [(pre-session notebook)](4.1_deep-learning_after.ipynb)
 
-[Building your own neural net (completed notebook)](4.1_deep-learning_complete.ipynb)
+Building your own neural net [(completed notebook)](4.1_deep-learning_complete.ipynb)
 
 ### Session 2
 
-[Training and tuning deep learning models on materials science properties (pre-session notebook)](4.2_deep-learning.ipynb)
+Training and tuning deep learning models on materials science properties [(pre-session notebook)](4.2_deep-learning.ipynb)
 
-[Training and tuning deep learning models on materials science properties (pre-session notebook)](4.2_deep-learning_after.ipynb)
+Training and tuning deep learning models on materials science properties [(pre-session notebook)](4.2_deep-learning_after.ipynb)
 
