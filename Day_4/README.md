@@ -1,13 +1,16 @@
 ## Deep Learning and Neural Nets
 
+[Slides](230713_bartel_deep-learning_after.pdf)
+
 ### Session 1
 
-Deep Learning (pre-session notes)
+[Building your own neural net (pre-session notebook)](4.1_deep-learning_after.ipynb)
 
-Deep Learning (completed)
+[Building your own neural net (completed notebook)](4.1_deep-learning_complete.ipynb)
 
 ### Session 2
 
-Deep Learning (pre-session notes)
+[Training and tuning deep learning models on materials science properties (pre-session notebook)](4.2_deep-learning.ipynb)
 
-Deep Learning (compleded)
+[Training and tuning deep learning models on materials science properties (pre-session notebook)](4.2_deep-learning_after.ipynb)
+
