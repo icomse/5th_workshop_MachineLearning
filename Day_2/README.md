@@ -2,7 +2,7 @@
 
 ### Session 1
 
-Decision Trees and Random Forests [slides](Day_2_decision_tree_random_forests.pptx) and [notebook](DES_i_CoMSE.ipynb)
+Decision Trees and Random Forests: [slides](Day_2_decision_tree_random_forests.pptx) and [notebook](DES_i_CoMSE.ipynb)
 
 ### Session 2
 
