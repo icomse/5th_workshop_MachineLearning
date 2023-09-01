@@ -2,8 +2,12 @@
 
 ### Session 1
 
+Deep Learning (pre-session notes)
+
+Deep Learning (completed)
+
 ### Session 2
 
-### Session 3
+Deep Learning (pre-session notes)
 
-### Session 4
+Deep Learning (compleded)
